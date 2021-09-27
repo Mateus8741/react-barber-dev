@@ -1,0 +1,37 @@
+.logo {
+  width: 100%;
+  background: #ccc;
+}
+
+.logo h1 {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.cabeça nav {
+  width: 100%;
+}
+
+.cabeça nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-right: 1rem;
+}
+
+.cabeça nav ul li {
+  padding: 10px 15px;
+}
+
+.cabeça nav ul li + li {
+  margin-left: 10px;
+}
+
+.cabeça nav ul li a {
+  color: rgb(17, 16, 16);
+  font-weight: bold;
+}
+
+.cabeça nav ul li a:hover {
+  text-decoration: underline;
+}

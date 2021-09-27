@@ -1,0 +1,8 @@
+.imagem-principal {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/barbershop.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
